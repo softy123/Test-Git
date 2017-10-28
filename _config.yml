@@ -9,3 +9,4 @@
  gfm_quirks: paragraph_end
 
 theme: jekyll-theme-cayman
+show_downloads: true
